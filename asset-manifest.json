@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/TechnicalWriting/static/css/main.45ba9f8f.chunk.css",
-    "main.js": "/TechnicalWriting/static/js/main.73c96ba3.chunk.js",
-    "main.js.map": "/TechnicalWriting/static/js/main.73c96ba3.chunk.js.map",
-    "runtime-main.js": "/TechnicalWriting/static/js/runtime-main.3416fa09.js",
-    "runtime-main.js.map": "/TechnicalWriting/static/js/runtime-main.3416fa09.js.map",
-    "static/js/2.6c0e796e.chunk.js": "/TechnicalWriting/static/js/2.6c0e796e.chunk.js",
-    "static/js/2.6c0e796e.chunk.js.map": "/TechnicalWriting/static/js/2.6c0e796e.chunk.js.map",
-    "index.html": "/TechnicalWriting/index.html",
-    "precache-manifest.2962b8c6ad28daa02ad580fab8716bdb.js": "/TechnicalWriting/precache-manifest.2962b8c6ad28daa02ad580fab8716bdb.js",
-    "service-worker.js": "/TechnicalWriting/service-worker.js",
-    "static/css/main.45ba9f8f.chunk.css.map": "/TechnicalWriting/static/css/main.45ba9f8f.chunk.css.map",
-    "static/js/2.6c0e796e.chunk.js.LICENSE.txt": "/TechnicalWriting/static/js/2.6c0e796e.chunk.js.LICENSE.txt",
-    "static/media/RMRESUMEAPRIL.pdf": "/TechnicalWriting/static/media/RMRESUMEAPRIL.e3841e54.pdf"
+    "main.css": "/static/css/main.45ba9f8f.chunk.css",
+    "main.js": "/static/js/main.73c96ba3.chunk.js",
+    "main.js.map": "/static/js/main.73c96ba3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06c948cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06c948cf.js.map",
+    "static/js/2.6c0e796e.chunk.js": "/static/js/2.6c0e796e.chunk.js",
+    "static/js/2.6c0e796e.chunk.js.map": "/static/js/2.6c0e796e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5162a5b49d185f3e9e3a65b3c375fa0c.js": "/precache-manifest.5162a5b49d185f3e9e3a65b3c375fa0c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.45ba9f8f.chunk.css.map": "/static/css/main.45ba9f8f.chunk.css.map",
+    "static/js/2.6c0e796e.chunk.js.LICENSE.txt": "/static/js/2.6c0e796e.chunk.js.LICENSE.txt",
+    "static/media/RMRESUMEAPRIL.pdf": "/static/media/RMRESUMEAPRIL.e3841e54.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3416fa09.js",
+    "static/js/runtime-main.06c948cf.js",
     "static/js/2.6c0e796e.chunk.js",
     "static/css/main.45ba9f8f.chunk.css",
     "static/js/main.73c96ba3.chunk.js"
