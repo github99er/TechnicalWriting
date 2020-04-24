@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TechnicalWriting/static/css/main.45ba9f8f.chunk.css",
+    "main.js": "/TechnicalWriting/static/js/main.73c96ba3.chunk.js",
+    "main.js.map": "/TechnicalWriting/static/js/main.73c96ba3.chunk.js.map",
+    "runtime-main.js": "/TechnicalWriting/static/js/runtime-main.3416fa09.js",
+    "runtime-main.js.map": "/TechnicalWriting/static/js/runtime-main.3416fa09.js.map",
+    "static/js/2.6c0e796e.chunk.js": "/TechnicalWriting/static/js/2.6c0e796e.chunk.js",
+    "static/js/2.6c0e796e.chunk.js.map": "/TechnicalWriting/static/js/2.6c0e796e.chunk.js.map",
+    "index.html": "/TechnicalWriting/index.html",
+    "precache-manifest.2962b8c6ad28daa02ad580fab8716bdb.js": "/TechnicalWriting/precache-manifest.2962b8c6ad28daa02ad580fab8716bdb.js",
+    "service-worker.js": "/TechnicalWriting/service-worker.js",
+    "static/css/main.45ba9f8f.chunk.css.map": "/TechnicalWriting/static/css/main.45ba9f8f.chunk.css.map",
+    "static/js/2.6c0e796e.chunk.js.LICENSE.txt": "/TechnicalWriting/static/js/2.6c0e796e.chunk.js.LICENSE.txt",
+    "static/media/RMRESUMEAPRIL.pdf": "/TechnicalWriting/static/media/RMRESUMEAPRIL.e3841e54.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3416fa09.js",
+    "static/js/2.6c0e796e.chunk.js",
+    "static/css/main.45ba9f8f.chunk.css",
+    "static/js/main.73c96ba3.chunk.js"
+  ]
+}
